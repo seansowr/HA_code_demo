@@ -1,0 +1,8 @@
+﻿  NoiseReduction.cpp
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\NoiseReduction.cpp(90,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 286 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SB_HA_sln.vcxproj -> C:\Users\Owner\source\repos\SB_HA_sln\x64\Release\SB_HA_sln.exe

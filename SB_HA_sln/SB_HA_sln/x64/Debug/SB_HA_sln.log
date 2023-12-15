@@ -1,0 +1,10 @@
+﻿  DynamicRangeCompressor.cpp
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\DynamicRangeCompressor.cpp(105,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  FeedbackCanceller.cpp
+  HearingAugmentation.cpp
+  NoiseReduction.cpp
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\NoiseReduction.cpp(90,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SB_HA_sln.cpp
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\SB_HA_sln.cpp(116,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SB_HA_sln.vcxproj -> C:\Users\Owner\source\repos\SB_HA_sln\x64\Debug\SB_HA_sln.exe

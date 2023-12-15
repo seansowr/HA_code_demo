@@ -1,0 +1,20 @@
+﻿  audioDataReader.cpp
+  DynamicRangeCompressor.cpp
+  FeedbackCanceller.cpp
+  HearingAugmentation.cpp
+  NoiseReduction.cpp
+  SB_HA_sln.cpp
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\SB_HA_sln.cpp(39,27): warning C4018: '<': signed/unsigned mismatch
+  kiss_fft.c
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\kiss_fft.c(119,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\kiss_fft.c(120,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  kiss_fftr.c
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\kiss_fftr.c(116,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\kiss_fftr.c(117,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\kiss_fftr.c(118,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\source\repos\SB_HA_sln\SB_HA_sln\kiss_fftr.c(119,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 288 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SB_HA_sln.vcxproj -> C:\Users\Owner\source\repos\SB_HA_sln\Release\SB_HA_sln.exe
